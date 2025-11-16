@@ -1,13 +1,16 @@
 Adventure Work Report
+
 This Power BI project was completed as part of the Maven Analytics Power BI course that provides a comprehensive overview of Adventure Works' business operations, focusing on sales performance, product analysis, customer insights, and geographic distribution. The dashboard is tailored for business analysts, sales managers, and executives to monitor key metrics, identify trends, and make data-driven decisions.
 
 Key Features
+
 KPIs (Key Performance Indicators)
-Track critical business metrics at a glance, such as total sales, profit margins, and order fulfillment rates, to assess overall business health.
-Sales Performance
-Analyze sales trends over time to identify growth patterns, seasonal fluctuations, and areas for improvement.
-Compare actual sales against targets to measure performance and alignment with business goals.
-Sales Target
+ 
+1. Track critical business metrics at a glance, such as total sales, profit margins, and order fulfillment rates, to assess overall business health.
+2. Sales Performance
+3. Analyze sales trends over time to identify growth patterns, seasonal fluctuations, and areas for improvement.
+4. Compare actual sales against targets to measure performance and alignment with business goals.
+5. Sales Target
 Monitor progress toward sales targets to ensure the organization is on track to meet its objectives.
 Visualize gaps between actual sales and targets to prioritize corrective actions.
 Product Analysis
