@@ -11,25 +11,29 @@ KPIs (Key Performance Indicators)
 3. Analyze sales trends over time to identify growth patterns, seasonal fluctuations, and areas for improvement.
 4. Compare actual sales against targets to measure performance and alignment with business goals.
 5. Sales Target
-Monitor progress toward sales targets to ensure the organization is on track to meet its objectives.
-Visualize gaps between actual sales and targets to prioritize corrective actions.
-Product Analysis
-Evaluate product performance by category, subcategory, and individual SKUs.
-Identify top-selling products and underperforming items to optimize inventory and marketing strategies.
-Customer Analysis
-Gain insights into customer behavior, including purchase frequency, average order value, and customer segmentation.
-Identify high-value customers and target retention strategies to enhance customer loyalty.
-Orders by Country
-Visualize geographic distribution of orders to identify high-performing regions and untapped markets.
-Analyze regional sales trends to inform expansion strategies and resource allocation.
+6. Monitor progress toward sales targets to ensure the organization is on track to meet its objectives.
+7. Visualize gaps between actual sales and targets to prioritize corrective actions.
+8. Product Analysis
+9. Evaluate product performance by category, subcategory, and individual SKUs.
+10.Identify top-selling products and underperforming items to optimize inventory and marketing strategies.
+11. Customer Analysis
+12. Gain insights into customer behavior, including purchase frequency, average order value, and customer segmentation.
+13. Identify high-value customers and target retention strategies to enhance customer loyalty.
+14. Orders by Country
+15. Visualize geographic distribution of orders to identify high-performing regions and untapped markets.
+16. Analyze regional sales trends to inform expansion strategies and resource allocation.
+
 Benefits of the Dashboard
-Holistic View of Business Operations: Consolidate data from sales, products, customers, and regions into a single, interactive platform.
-Actionable Insights: Identify trends, opportunities, and challenges to drive strategic decision-making.
-Real-Time Monitoring: Track KPIs and performance metrics in real-time to respond quickly to changing business conditions.
-Customizable Visualizations: Interactive charts, graphs, and maps allow users to drill down into specific areas of interest.
-Improved Efficiency: Streamline reporting processes and reduce manual effort by automating data aggregation and visualization.
+
+1. Holistic View of Business Operations: Consolidate data from sales, products, customers, and regions into a single, interactive platform.
+2. Actionable Insights: Identify trends, opportunities, and challenges to drive strategic decision-making.
+3. Real-Time Monitoring: Track KPIs and performance metrics in real-time to respond quickly to changing business conditions.
+4. Customizable Visualizations: Interactive charts, graphs, and maps allow users to drill down into specific areas of interest.
+5. Improved Efficiency: Streamline reporting processes and reduce manual effort by automating data aggregation and visualization.
+
 Technologies Used
-Power BI: For data visualization and dashboard creation.
-DAX (Data Analysis Expressions): For creating calculated columns and measures.
-Power Query: For data transformation and cleaning.
+
+1. Power BI: For data visualization and dashboard creation.
+2. DAX (Data Analysis Expressions): For creating calculated columns and measures.
+3. Power Query: For data transformation and cleaning.
 
