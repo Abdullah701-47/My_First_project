@@ -1,101 +1,97 @@
-📊 Data Analyst Portfolio
+# 📊 Data Analyst Portfolio
 
-Welcome to my Data Analyst Portfolio!
-This repository showcases my hands-on experience with Data Cleaning, Analysis, Visualization, Automation, and Reporting using Excel, SQL, Python, and Power BI.
-Each project reflects practical, business-oriented data solutions.
+Welcome to my **Data Analyst Portfolio**! This repository showcases my
+hands-on experience with **Data Cleaning, Analysis, Visualization,
+Automation, and Reporting** using **Excel, SQL, Python, and Power BI**.
+Each project reflects *practical, business-oriented data solutions*.
 
-🧠 About Me
+## 🧠 About Me
 
-I am a Data Analyst with a strong analytical mindset and hands-on expertise in Excel, SQL, Python, and BI tools.
-Originally trained as an Engineer, I transitioned into Data Analytics to solve real-world problems through data-driven insights.
+I am a **Data Analyst** with a strong analytical mindset and expertise
+in **Excel, SQL, Python**, and **Business Intelligence tools**.
+Originally trained as an engineer, I transitioned into Data Analytics to
+solve real-world business problems through data-driven insights.
 
 I enjoy:
 
-Cleaning messy datasets
-Automating manual reporting
-Building dashboards that support decision-making
-Using data to answer business questions
+-   Cleaning messy datasets
+-   Automating manual reporting
+-   Building dashboards for decision-making
+-   Using data to answer business questions
 
-🛠️ Skills & Tools
+## 🛠️ Skills & Tools
 
-📌 Core Skills
-Data Cleaning & Transformation
-Exploratory Data Analysis (EDA)
-KPI Tracking & Dashboarding
-Forecasting & Trend Analysis
-Report Automation
-Critical Thinking & Problem Solving
+### 📌 Core Skills
 
-📌 Tools & Technologies
-Excel: Power Query, Power Pivot, PivotTables, Dashboards, Advanced Formulas
-SQL: Joins, Aggregations, CTEs, Window Functions
-Python: Pandas, NumPy, Matplotlib
-Power BI: DAX, Relationships, ETL, Dashboard Design
-Other: GitHub, Google Sheets
+-   Data Cleaning & Transformation
+-   Exploratory Data Analysis (EDA)
+-   KPI Tracking & Dashboarding
+-   Forecasting & Trend Analysis
+-   Report Automation
+-   Critical Thinking & Problem Solving
 
-📁 Project Categories
+### 📌 Tools & Technologies
 
-🔹 1. Excel Projects
-Data cleaning, transformation, formulas, automations, and dashboard creation using:
-Power Quer
-Power Pivot
-PivotTables
-DAX (via Power Pivot)
+**Excel:** Power Query, Power Pivot, PivotTables, Dashboards, Advanced
+Formulas\
+**SQL:** Joins, Aggregations, CTEs, Window Functions\
+**Python:** Pandas, NumPy, Matplotlib\
+**Power BI:** DAX, Relationships, ETL, Dashboard Design\
+**Other:** GitHub, Google Sheets
 
-Folder: Excel-Projects/
+## 📁 Project Categories
 
-🔹 2. Pandas (Python) Projects
-Analysis-driven projects using Python:
-Data cleaning
-Merging & grouping
-Visualization (Matplotlib)
-EDA and insights
+### 🔹 1. Excel Projects
 
-Folder: Pandas-Projects/
+Data cleaning, transformation, formulas, automations, and dashboard
+creation using: - Power Query - Power Pivot - PivotTables - DAX (via
+Power Pivot)
 
-🔹 3. SQL + Power BI Projects
-End-to-end analytics projects combining:
-SQL querying & data extraction
-Power BI visuals & dashboards
-Business KPI reporting
+Folder: `Excel-Projects/`
 
-Folder: SQL-PowerBI-Projects/
+### 🔹 2. Pandas (Python) Projects
 
-🔹 4. Power BI Reports
-Standalone dashboards showcasing:
-Business KPIs
-Data modeling
-DAX calculations
-Drill-down analysis
+Analysis-driven projects using Python: - Data cleaning - Merging &
+grouping - Visualization (Matplotlib) - EDA and insights
 
-Folder: PowerBI-Reports/
+Folder: `Pandas-Projects/`
 
-📂 Repository Structure
-📦 Data-Analyst-Portfolio
- ┣ 📁 Excel-Projects
- ┣ 📁 Pandas-Projects
- ┣ 📁 SQL-PowerBI-Projects
- ┣ 📁 PowerBI-Reports
- ┗ README.md
+### 🔹 3. SQL + Power BI Projects
 
+End-to-end analytics combining: - SQL querying & data extraction - Power
+BI visuals & dashboards - Business KPI reporting
 
-Each folder contains:
+Folder: `SQL-PowerBI-Projects/`
 
-A dedicated project directory
-A README.md explaining the problem, approach, tools, and insights
-All necessary datasets
+### 🔹 4. Power BI Reports
 
-🚀 How to Use This Repository
-Open any project folder to explore the analysis.
-Read the project-specific README.md for:
-Project overview
-Dataset details
-Steps taken
-Insights & conclusions
-Download datasets if you want to practice.
+Standalone dashboards showcasing: - Business KPIs - Data modeling - DAX
+calculations - Drill-down analysis
 
-📬 Contact
-If you have questions, suggestions, or opportunities, feel free to reach out!
-📧 Email: 12mabdullah701@gmail.com
-🔗 LinkedIn: www.linkedin.com/in/muhammad-abdullah-akhtar-1a1601232
-🌐 Portfolio Website (optional): your website if any
+Folder: `PowerBI-Reports/`
+
+## 📂 Repository Structure
+
+📦 Data-Analyst-Portfolio ┣ 📁 Excel-Projects ┣ 📁 Pandas-Projects ┣ 📁
+SQL-PowerBI-Projects ┣ 📁 PowerBI-Reports ┗ README.md
+
+Each project folder includes: - A dedicated project directory - A
+README.md explaining the problem, approach, tools, and insights - All
+necessary datasets
+
+## 🚀 How to Use This Repository
+
+1.  Open any project folder.
+2.  Read the project-specific README.md to understand:
+    -   Project overview
+    -   Dataset details
+    -   Steps taken
+    -   Insights & conclusions
+3.  Download datasets to practice or replicate the workflows.
+
+## 📬 Contact
+
+📧 Email: 12mabdullah701@gmail.com\
+🔗 LinkedIn:
+https://www.linkedin.com/in/muhammad-abdullah-akhtar-1a1601232\
+🌐 Portfolio Website: (optional)
