@@ -12,30 +12,21 @@ Originally trained as an Engineer, I transitioned into Data Analytics to solve r
 I enjoy:
 
 Cleaning messy datasets
-
 Automating manual reporting
-
 Building dashboards that support decision-making
-
 Using data to answer business questions
 
 🛠️ Skills & Tools
+
 📌 Core Skills
-
 Data Cleaning & Transformation
-
 Exploratory Data Analysis (EDA)
-
 KPI Tracking & Dashboarding
-
 Forecasting & Trend Analysis
-
 Report Automation
-
 Critical Thinking & Problem Solving
 
 📌 Tools & Technologies
-
 Excel: Power Query, Power Pivot, PivotTables, Dashboards, Advanced Formulas
 SQL: Joins, Aggregations, CTEs, Window Functions
 Python: Pandas, NumPy, Matplotlib
@@ -43,56 +34,38 @@ Power BI: DAX, Relationships, ETL, Dashboard Design
 Other: GitHub, Google Sheets
 
 📁 Project Categories
+
 🔹 1. Excel Projects
-
 Data cleaning, transformation, formulas, automations, and dashboard creation using:
-
-Power Query
-
+Power Quer
 Power Pivot
-
 PivotTables
-
 DAX (via Power Pivot)
 
 Folder: Excel-Projects/
 
 🔹 2. Pandas (Python) Projects
-
 Analysis-driven projects using Python:
-
 Data cleaning
-
 Merging & grouping
-
 Visualization (Matplotlib)
-
 EDA and insights
 
 Folder: Pandas-Projects/
 
 🔹 3. SQL + Power BI Projects
-
 End-to-end analytics projects combining:
-
 SQL querying & data extraction
-
 Power BI visuals & dashboards
-
 Business KPI reporting
 
 Folder: SQL-PowerBI-Projects/
 
 🔹 4. Power BI Reports
-
 Standalone dashboards showcasing:
-
 Business KPIs
-
 Data modeling
-
 DAX calculations
-
 Drill-down analysis
 
 Folder: PowerBI-Reports/
@@ -109,31 +82,20 @@ Folder: PowerBI-Reports/
 Each folder contains:
 
 A dedicated project directory
-
 A README.md explaining the problem, approach, tools, and insights
-
 All necessary datasets
 
 🚀 How to Use This Repository
-
 Open any project folder to explore the analysis.
-
 Read the project-specific README.md for:
-
 Project overview
-
 Dataset details
-
 Steps taken
-
 Insights & conclusions
-
 Download datasets if you want to practice.
 
 📬 Contact
-
 If you have questions, suggestions, or opportunities, feel free to reach out!
-
 📧 Email: 12mabdullah701@gmail.com
 🔗 LinkedIn: www.linkedin.com/in/muhammad-abdullah-akhtar-1a1601232
 🌐 Portfolio Website (optional): your website if any
